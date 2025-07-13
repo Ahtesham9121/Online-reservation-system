@@ -31,8 +31,7 @@ Online Reservation System/
 └── README.md
 
 # Features
-
-- Basic login form (optional)
+- Basic Login details
 - Reservation module
   - Auto-fills train name based on number
   - Generates random PNR
