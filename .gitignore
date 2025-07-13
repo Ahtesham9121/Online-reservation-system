@@ -1,0 +1,24 @@
+# Ignore compiled class files
+*.class
+
+# Ignore IntelliJ IDEA-specific files
+.idea/
+*.iml
+
+# Ignore build output
+/out/
+target/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore file used to store reservation records
+reservation_data.txt
